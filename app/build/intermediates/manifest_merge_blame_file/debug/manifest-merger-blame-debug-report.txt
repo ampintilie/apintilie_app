@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.apintilie_app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:6:5-76
+12-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:6:22-73
+13
+14    <!-- Permission will be merged into the manifest of the hosting app. -->
+15    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:8:3-74
+16-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:8:20-72
+17
+18    <application
+18-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:8:5-28:19
+19        android:allowBackup="true"
+19-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:9:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.0-beta01] /Users/ana/.gradle/caches/transforms-2/files-2.1/101f5f89f5dc85147e54a453d1428b5b/core-1.3.0-beta01/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:10:9-43
+23        android:label="@string/app_name"
+23-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:11:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:12:9-54
+25        android:supportsRtl="true"
+25-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:13:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.Design.NoActionBar" >
+27-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:14:9-56
+28        <activity
+28-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:15:9-16:82
+29            android:name="com.example.apintilie_app.Notes"
+29-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:15:19-40
+30            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar" />
+30-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:16:13-80
+31        <activity android:name="com.example.apintilie_app.Tutorials" />
+31-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:17:9-47
+31-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:17:19-44
+32        <activity android:name="com.example.apintilie_app.FirstPage" />
+32-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:18:9-47
+32-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:18:19-44
+33        <activity android:name="com.example.apintilie_app.Signup_activity" />
+33-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:19:9-53
+33-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:19:19-50
+34        <activity android:name="com.example.apintilie_app.Books" />
+34-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:20:9-43
+34-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:20:19-40
+35        <activity android:name="com.example.apintilie_app.MainActivity" >
+35-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:21:9-27:20
+35-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:21:19-47
+36            <intent-filter>
+36-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:22:13-26:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:23:17-69
+37-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:25:17-77
+39-->/Users/ana/Desktop/apintilie_app/app/src/main/AndroidManifest.xml:25:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:24:9-31:50
+43            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+43-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:25:13-85
+44            android:excludeFromRecents="true"
+44-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:26:13-46
+45            android:exported="true"
+45-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:27:13-36
+46            android:launchMode="singleTask"
+46-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:28:13-44
+47            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+47-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:29:13-102
+48            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+48-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:30:13-72
+49
+50        <service
+50-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:33:9-39:19
+51            android:name="com.google.firebase.components.ComponentDiscoveryService"
+51-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:34:13-84
+52            android:directBootAware="true"
+52-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+53            android:exported="false" >
+53-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:35:13-37
+54            <meta-data
+54-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:36:13-38:85
+55                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+55-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:37:17-109
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-auth:19.3.1] /Users/ana/.gradle/caches/transforms-2/files-2.1/8138ac108eeea614297aefe973e6f968/jetified-firebase-auth-19.3.1/AndroidManifest.xml:38:17-82
+57        </service>
+58        <service
+58-->[androidx.room:room-runtime:2.2.5] /Users/ana/.gradle/caches/transforms-2/files-2.1/7e96023fbd61b34f4f7b44a2a3623dde/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+59            android:name="androidx.room.MultiInstanceInvalidationService"
+59-->[androidx.room:room-runtime:2.2.5] /Users/ana/.gradle/caches/transforms-2/files-2.1/7e96023fbd61b34f4f7b44a2a3623dde/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+60            android:directBootAware="true"
+60-->[androidx.room:room-runtime:2.2.5] /Users/ana/.gradle/caches/transforms-2/files-2.1/7e96023fbd61b34f4f7b44a2a3623dde/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+61            android:exported="false" />
+61-->[androidx.room:room-runtime:2.2.5] /Users/ana/.gradle/caches/transforms-2/files-2.1/7e96023fbd61b34f4f7b44a2a3623dde/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+62
+63        <activity
+63-->[com.google.android.gms:play-services-base:17.1.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/f7fd57f9f895b3700eeb14c67708ab99/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+64            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+64-->[com.google.android.gms:play-services-base:17.1.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/f7fd57f9f895b3700eeb14c67708ab99/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+65            android:exported="false"
+65-->[com.google.android.gms:play-services-base:17.1.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/f7fd57f9f895b3700eeb14c67708ab99/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+66-->[com.google.android.gms:play-services-base:17.1.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/f7fd57f9f895b3700eeb14c67708ab99/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+67
+68        <provider
+68-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+69            android:name="com.google.firebase.provider.FirebaseInitProvider"
+69-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+70            android:authorities="com.example.apintilie_app.firebaseinitprovider"
+70-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+71            android:exported="false"
+71-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+72            android:initOrder="100" />
+72-->[com.google.firebase:firebase-common:19.3.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/4b67265a84e3bd6e679c374fbc4d10ec/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+73
+74        <meta-data
+74-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/8eadefea8a55a57baec276db81a90641/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+75            android:name="com.google.android.gms.version"
+75-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/8eadefea8a55a57baec276db81a90641/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+76            android:value="@integer/google_play_services_version" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+76-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ana/.gradle/caches/transforms-2/files-2.1/8eadefea8a55a57baec276db81a90641/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+77        <activity
+77-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:5-271
+78            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+78-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:15-102
+79            android:enabled="false"
+79-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:103-126
+80            android:exported="false"
+80-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:127-151
+81            android:launchMode="singleInstance"
+81-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:204-239
+82            android:process=":playcore_missing_splits_activity"
+82-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:152-203
+83            android:stateNotNeeded="true" />
+83-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:12:240-269
+84        <activity
+84-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:5-226
+85            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+85-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:15-95
+86            android:enabled="false"
+86-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:96-119
+87            android:exported="false"
+87-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:120-144
+88            android:stateNotNeeded="true"
+88-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:145-174
+89            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
+89-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:13:175-224
+90        <service
+90-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:16:5-145
+91            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+91-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:16:14-95
+92            android:enabled="false"
+92-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:16:96-119
+93            android:exported="true" />
+93-->[com.google.android.play:core:1.7.2] /Users/ana/.gradle/caches/transforms-2/files-2.1/93c1c41bbef2a9728829aaf746f1fb4a/jetified-core-1.7.2/AndroidManifest.xml:16:120-143
+94    </application>
+95
+96</manifest>

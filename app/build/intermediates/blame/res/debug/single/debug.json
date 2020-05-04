@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_activity_signup_activity.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/activity_signup_activity.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_back4.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/back4.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xhdpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-hdpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_action_user.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_action_user.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xxhdpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_android.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/android.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_action_red.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_book.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/book.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_activity_first_page.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/activity_first_page.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_action_pass.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_action_pass.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_cc.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/cc.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_activity_tutorials.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/activity_tutorials.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_python1.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/python1.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_network.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/network.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-hdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_no_fav.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/no_fav.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_action_red.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_back2.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/back2.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xxhdpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xhdpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_image.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/image.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-mdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xxhdpi/ic_action_red.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_arduino.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/arduino.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_bgp.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/bgp.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_note_layout.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/note_layout.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_fragment_add_note.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/fragment_add_note.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-hdpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_java.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/java.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_python.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/python.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_user.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_back1.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/back1.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_action_red.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_action_red.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_netw1.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/netw1.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_save.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-xhdpi/ic_action_red.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_activity_notes.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/activity_notes.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable_image.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable/image.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/ic_action_red.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_save.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_save.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/layout_books.xml.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/layout/books.xml"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable_back2.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable/back2.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_tcp.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/tcp.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-mdpi_python3.jpg.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-mdpi/python3.jpg"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_pass.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_action_pass.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/ana/Desktop/apintilie_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_red.png.flat",
+        "source": "/Users/ana/Desktop/apintilie_app/app/src/main/res/drawable-hdpi/ic_action_red.png"
+    }
+]

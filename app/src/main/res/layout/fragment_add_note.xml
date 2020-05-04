@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddNoteFragment">
+
+
+    <EditText
+        android:id="@+id/edit_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue2"
+        android:hint="Title"
+        android:inputType="text"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/edit_note"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/edit_title"
+        android:background="@color/blue1"
+        android:gravity="top"
+        android:hint="Note"
+        android:inputType="textMultiLine"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textStyle="italic" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/savebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="55dp"
+        android:layout_marginBottom="86dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/ic_save" />
+
+</RelativeLayout>

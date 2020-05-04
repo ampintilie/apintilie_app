@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:background="@color/common_google_signin_btn_tint"
+            android:src="@drawable/image"></ImageView>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="14dp"
+            android:layout_marginLeft="14dp"
+            android:layout_toEndOf="@id/image"
+            android:layout_toRightOf="@id/image"
+            android:text="Title"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="14sp"></TextView>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginStart="14dp"
+            android:layout_marginLeft="14dp"
+            android:layout_toEndOf="@id/image"
+            android:layout_toRightOf="@id/image"
+            android:text="Description"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="12sp"></TextView>
+
+        <Button
+            android:id="@+id/fav_button"
+            android:layout_width="wrap_content"
+            android:layout_height="71dp"
+            android:layout_below="@id/description"
+            android:layout_marginStart="113dp"
+            android:layout_marginLeft="113dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginBottom="18dp"
+            android:layout_toEndOf="@id/image"
+            android:layout_toRightOf="@id/image"
+            android:background="@drawable/ic_action_red"
+            android:gravity="bottom|end">
+
+        </Button>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

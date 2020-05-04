@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/IMAGE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/user"
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginLeft="117dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginRight="117dp"
+        android:layout_marginBottom="54dp"
+        android:background="@android:color/holo_blue_dark"
+        android:drawableStart="@drawable/ic_action_user"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.487">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginLeft="117dp"
+        android:layout_marginTop="332dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginRight="117dp"
+        android:background="@android:color/holo_blue_dark"
+        android:drawableStart="@drawable/ic_action_pass"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/button_signup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.538">
+
+    </EditText>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="177dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginEnd="177dp"
+        android:background="@android:color/holo_blue_dark"
+        android:text="Login"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintBottom_toTopOf="@+id/signup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.663">
+
+    </Button>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="222dp"
+        android:layout_height="224dp"
+        app:layout_constraintBottom_toTopOf="@+id/user"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.323"
+        app:srcCompat="@drawable/image">
+
+    </ImageView>
+
+    <Button
+        android:id="@+id/buttonsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/holo_blue_dark"
+        android:fontFamily="sans-serif"
+        android:text="Sign Up"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:layout_editor_absoluteX="0dp">
+
+    </Button>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

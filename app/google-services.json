@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239130088642",
+    "firebase_url": "https://apintilie-app.firebaseio.com",
+    "project_id": "apintilie-app",
+    "storage_bucket": "apintilie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239130088642:android:142a0d4c6fef28ee86975b",
+        "android_client_info": {
+          "package_name": "com.example.apintilie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "XXXXXXXXXXXXXXXXX",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apintilie_app",
+            "certificate_hash": "XXXXXXXXXXXX"
+          }
+        },
+        {
+          "client_id": "XXXXXXXXXXXXXX",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXXXXXXXXXXXXXXXX"
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "XXXXXXXXXXXXXXXXXXX",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
